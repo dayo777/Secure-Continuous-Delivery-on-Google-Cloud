@@ -52,18 +52,3 @@ With the following software and hardware list you can run all code files present
 
 ### Related products
 * Google Cloud for Developers [[Packt]](https://www.packtpub.com/product/google-cloud-for-developers/9781837630745?utm_source=github&utm_medium=repository&utm_campaign=9781837630745) [[Amazon]](https://www.amazon.com/dp/1837630747)
-
-* Google Cloud Associate Cloud Engineer Certification and Implementation Guide [[Packt]](https://www.packtpub.com/product/google-cloud-associate-cloud-engineer-certification-and-implementation-guide/9781803232713?utm_source=github&utm_medium=repository&utm_campaign=9781803232713) [[Amazon]](https://www.amazon.com/dp/1803232714)
-
-## Get to Know the Author
-**Giovanni Galloro**
-has been working at Google since 2017 as a customer engineer specializing in container-based runtimes, DevOps tools, and application networking. He works with multiple organizations across EMEA, helping them to leverage these capabilities and improve their software delivery practices.
-Giovanni is a community ambassador for the Continuous Delivery Foundation and is a frequent speaker at developer conferences.Before Google, he worked at Microsoft, Red Hat, VMware, and HP, following the evolution of application platforms over the past 20 years.
-
-**Nathaniel Avery**
-works at Google as an outbound product manager for the Google Cloud Application Ecosystem group, specializing in DevOps tools, and has spoken to many Fortune 500 companies about DevOps tooling solutions.
-Before joining Google, Nate spent more than 20 years in IT designing, planning, and implementing complex systems, integrating custom-built and COTS applications for federal government customers. Currently, he’s working on better ways to build and use cloud resources to help customers deliver better products, safely and securely, without sacrificing velocity.
-
-**David Dorbin**
-has been a technical writer for more than three decades. He’s been with Google for more than a dozen years, documenting payment applications, internal tools, and Google Cloud DevOps products.
-Before Google, he worked with numerous start-ups and established companies, documenting technologies in payment processing, digital publishing and rights management, consumer electronics, and cryptography for financial institutions. In his free time, Dave enjoys playing bass and banjolele (but never at the same time), or doing more damage to his Achilles’ heel on the streets and trails of northern New Jersey.
